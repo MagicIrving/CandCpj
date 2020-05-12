@@ -8,6 +8,8 @@
         <item>@drawable/milk</item>
         <item>@drawable/salad</item>
         <item>@drawable/meal</item>
+        <item>@drawable/mask</item>
+
     </integer-array>
 
     <string-array name="title">
@@ -18,6 +20,7 @@
         <item>우유</item>
         <item>샐러드</item>
         <item>도시락</item>
+        <item>마스크</item>
     </string-array>
 
     <string-array name="content">
@@ -28,5 +31,6 @@
         <item>#신선한 #목장배송 #키가쑥쑥</item>
         <item>#다이어트 #웰빙 #유기농</item>
         <item>#매일매일 #한끼식단 #건강식품</item>
+        <item>#안전필터 #환절기필수 #바이러스차단</item>
     </string-array>
 </resources>
